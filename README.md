@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/f48072fb-eeb9-46d4-ae0f-ca845bc4aa74)
 
 
-This repository contains a 3D model of a Subaru WRX STI created in Blender 4.0. The model includes the car body and wheels, organized in a hierarchical structure for easy manipulation.
+This repository contains a 3D model of a Subaru WRX STI created in Blender. The model includes the car body and wheels, organized in a hierarchical structure for easy manipulation.
 
 ## Files and Structure
 
